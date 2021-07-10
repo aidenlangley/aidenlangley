@@ -3,4 +3,3 @@
 - 🌱 I’m currently becoming a Rustacean (learning Rust & systems level programming),
   how to contribute to open source projects and working for myself.
 - 💞️ Right now, I'm building Todoist into the terminal and [The Hub](https://aidenlangley.github.io/hub/).
-- 
